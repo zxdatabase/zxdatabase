@@ -28,14 +28,17 @@
 
 ---
 
-### 📸 Galerie
+🐍 Script Python
 
-> Voici quelques screenshots de mes projets (à venir)
+🕵️‍♂️ Outils de pentesting & sécurité : scanners réseau, brute force 🔐
 
-<img src="assets/bot-discord.png" alt="Bot Discord" width="300"/>
-<img src="assets/script-python.png" alt="Script Python" width="300"/>
+📊 Analyse de logs & data mining 🔎
 
----
+🤖 Bots de surveillance & alertes en temps réel 🚨
+
+🌐 Interaction avec API externes pour détection de vulnérabilités ⚙️
+
+🛠️ Automatisation avancée & scripts personnalisés 💻
 
 ### 🧩 Stack Technique
 
