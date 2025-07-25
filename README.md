@@ -15,11 +15,16 @@
 
 ---
 
-### 🚀 Mes projets à venir
+🚀 Mes projets à venir
+🤖 Bot Discord en Node.js (Discord.js) — fonctionnalités avancées à venir
 
-- 🤖 Bot Discord (`index.js`)
-- 🕵️‍♂️ Outils en Python pour l’automatisation
-- 🌐 Sites web simples en JS/Python/HTML
+🕵️‍♂️ Outils en Python pour automatisation & scripts persos
+
+🌐 Sites web en JavaScript, HTML, CSS — design responsive & moderne
+
+🎨 Exploration de nouveaux langages & technos : CSS, TypeScript, Rust, et plus !
+
+💻 Apprentissage continu sur frameworks, bases de données, et dev fullstack
 
 ---
 
