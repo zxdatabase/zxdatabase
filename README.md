@@ -1,4 +1,4 @@
-<h1 align="center">Yo, moi c'est ZX 👾</h1>
+<h1 align="center">W moi c'est ZX ☠️</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/GXGhtmB.png" alt="JavaScript" height="40"/>
@@ -10,16 +10,26 @@
 
 ---
 
-### 🧠 À propos
+### 📢 Invite mon bot Discord
 
-- 🔧 Je code en **JavaScript** & **Python**
-- 🤖 Je bosse sur des bots Discord, des scripts, et d’autres projets persos
-- 🧱 En cours de construction... stay tuned
+<p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=1379913117710024754&permissions=8&integration_type=0&scope=bot" target="_blank">
+    <img src="https://i.imgur.com/KV6UYaO.png" alt="Invite mon bot" width="250"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 À propos de moi
+
+- 🔧 Je code en **JavaScript** (Node.js) & **Python**
+- 🤖 Je développe des bots Discord, des outils persos, et j’expérimente plein de trucs
+- 🧱 Profil en construction... t’inquiète ça arrive fort
 - 🔗 [Telegram](https://t.me/zxchillsvibes) | Reddit : u/zx-_  
 
 ---
 
-### ⚙️ Skills
+### 🛠️ Compétences
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,py,nodejs,github,vscode,linux&perline=6" alt="Tech stack"/>
@@ -27,36 +37,23 @@
 
 ---
 
-### 🧩 Projets (à venir)
+### 🚀 Projets à venir
 
 | Projet         | Description                           |
 |----------------|---------------------------------------|
-| 💬 Bot Discord | Gestion, commandes, modération, logs  |
-| 🔍 Scraper     | Script Python qui récupère des infos  |
-| ⚡ Auto Tools  | Automatisation de tâches en .py       |
+| 💬 Bot Discord | Commandes, logs, gestion serveur      |
+| 🔍 Scraper     | Récupération d’infos web (en Python) |
+| ⚡ Auto Tools  | Outils d’automatisation               |
 
 ---
 
 ### 📸 Screenshots (à venir)
 
-<p align="center">
-  <img src="assets/bot.png" alt="Bot Discord" width="300"/>
-  <img src="assets/script.png" alt="Script Python" width="300"/>
-</p>
+> Tu peux mettre tes images dans ce dossier :
+```md
+assets/bot.png
+assets/script.png
 
----
-
-### 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxdatabase&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<!--
-**zxdatabase/zxdatabase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
