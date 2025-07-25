@@ -10,21 +10,11 @@
 
 ---
 
-### 📢 Invite mon bot Discord
-
-<p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=1379913117710024754&permissions=8&integration_type=0&scope=bot" target="_blank">
-    <img src="assets/invite-bot.png" alt="Invite mon bot" width="250"/>
-  </a>
-</p>
-
----
-
 ### 👨‍💻 À propos de moi
 
 - 🔧 Je code en **JavaScript** (Node.js) & **Python**
-- 🤖 Je développe des bots Discord, des outils persos
-- 🧱 Profil en construction... ça va drop bientôt
+- 🤖 Je développe des bots, des outils persos, et j’expérimente plein de trucs
+- 🧱 Profil en construction... ça arrive lourd
 - 🔗 [Telegram](https://t.me/zxchillsvibes) | Reddit : u/zx-_  
 
 ---
